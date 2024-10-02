@@ -53,7 +53,7 @@ int main(){
         cout<<"E"<<endl<<endl;
     }
 
-    cout << "\nApakah Anda ingin menghitung gaji lagi? (y/n): ";
+    cout << "\nApakah Anda ingin menghitung nilai lagi? (y/n): ";
     cin >> ulang;
 
     cout << endl;
